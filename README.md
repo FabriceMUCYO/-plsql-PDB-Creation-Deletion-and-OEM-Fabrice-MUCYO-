@@ -60,7 +60,17 @@ DROP PLUGGABLE DATABASE Mu_to_delete_pdb_27823 INCLUDING DATAFILES;
 ```
 
 ### here is the screenshot
+<img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/Switch%20to%20root.png" width=700>
+<img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/Create%20to%20delete%20pdb%20(temporary).png" width=700>
+<img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/open%20temporary%20pdb.png" width=700>
+<img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/Drop%20.png" width=700>
 
+---
+
+# Task 3: Oracle Enterprise
+In this task 3 i opened and open the OEM(Oracle Enterprise Manager) as the localhost and i logged in using the <b>"System"</b> as Username and <b>"Password"</b> and i entered the name of my container as <b>"Mu_pdb_27823"</b>
+
+<img src="
 
 
 
