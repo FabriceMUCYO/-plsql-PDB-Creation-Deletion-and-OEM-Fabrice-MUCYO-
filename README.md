@@ -35,6 +35,7 @@ ALTER PLUGGABLE DATABASE Mu_pdb_27823 SAVE STATE;
 
 <img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/Login%20to%20sql.png" width=700>
 <img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/Create%20Pdb.png" width=700>
+<img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/Show%20pdb.png" widthh=700>
 <img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/Open%20pdb.png" width=700>
 
 ---
@@ -72,6 +73,9 @@ In this task 3 i opened and open the OEM(Oracle Enterprise Manager) as the local
 
 <img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/Login%20to%20OEM.png" width=700>
 <img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/OEM%20Dashboard.png" width=700>
+
+---
+<b>END</b>
 
 
 
