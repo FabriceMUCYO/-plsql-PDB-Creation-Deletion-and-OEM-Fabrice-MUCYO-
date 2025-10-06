@@ -68,8 +68,8 @@ DROP PLUGGABLE DATABASE Fa_to_delete_pdb_27823 INCLUDING DATAFILES;
 # Task 3: Oracle Enterprise
 In this task 3 i opened and open the OEM(Oracle Enterprise Manager) as the localhost and i logged in using the <b>"System"</b> as Username and <b>"Password"</b> and i entered the name of my container as <b>"Fa_pdb_27823"</b>
 
-<img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/Login%20to%20OEM.png" width=700>
-<img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/OEM%20Dashboard.png" width=700>
+<img src="Pdb screenshot/OEM  Browser Login.png" width=700>
+<img src="Pdb screenshot/OEM Dashboard.png" width=700>
 
 ---
 <b>END</b>
