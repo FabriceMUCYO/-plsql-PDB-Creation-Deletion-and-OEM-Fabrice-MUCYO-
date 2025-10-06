@@ -59,10 +59,9 @@ DROP PLUGGABLE DATABASE Fa_to_delete_pdb_27823 INCLUDING DATAFILES;
 ```
 
 ### here is the screenshot
-<img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/Switch%20to%20root.png" width=700>
-<img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/Create%20to%20delete%20pdb%20(temporary).png" width=700>
-<img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/open%20temporary%20pdb.png" width=700>
-<img src="https://github.com/FabriceMUCYO/-plsql-PDB-Creation-Deletion-and-OEM-Fabrice-MUCYO-/blob/main/Pdb%20screenshot/Drop%20.png" width=700>
+<img src="Pdb screenshot/Switch to Root and Create Temporary pdb.png" width=700>
+<img src="Pdb screenshot/Alter temporary pdb.png" width=700>
+<img src="Pdb screenshot/Alter and Drop t.pdb.png" width=700>
 
 ---
 
